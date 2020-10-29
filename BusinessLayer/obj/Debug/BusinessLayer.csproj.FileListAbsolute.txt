@@ -1,0 +1,6 @@
+C:\Users\Maribel-Ciprian\source\repos\Agenda\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Maribel-Ciprian\source\repos\Agenda\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Maribel-Ciprian\source\repos\Agenda\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\source\repos\Agenda\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\source\repos\Agenda\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Maribel-Ciprian\source\repos\Agenda\BusinessLayer\obj\Debug\BusinessLayer.pdb

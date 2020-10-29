@@ -1,0 +1,15 @@
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.Contactos.resources
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\bin\Debug\BusinessLayer.dll
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\bin\Debug\BusinessLayer.pdb
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.Login.resources
+C:\Users\Maribel-Ciprian\source\repos\Agenda\Agenda\obj\Debug\Agenda.register.resources
